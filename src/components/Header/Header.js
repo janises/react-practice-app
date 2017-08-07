@@ -16,6 +16,9 @@ export default function Header() {
                 <Link to="/tictactoe">
                     <li>Tic Tac Toe</li>
                 </Link>
+                <Link to="/canvas">
+                    <li>Canvas</li>
+                </Link>
             </ul>
         </div>
     );
